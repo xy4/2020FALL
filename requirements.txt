@@ -21,4 +21,4 @@ setuptools==50.3.0
 six==1.15.0
 cvxopt==1.2.5
 cvxpy==1.1.5
-Mosek==9.2.21
+MOSEK==9.2.21
